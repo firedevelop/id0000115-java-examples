@@ -1,4 +1,3 @@
-package com.company;
 public class Exercise_Proposed_01_06 {
     private static final int MINUTES_IN_AN_HOUR = 60;
     private static final int SECONDS_IN_A_MINUTE = 60;

@@ -1,5 +1,3 @@
-package com.company;
-
 import java.util.Scanner;
 
 public class Exercise_02_09 {

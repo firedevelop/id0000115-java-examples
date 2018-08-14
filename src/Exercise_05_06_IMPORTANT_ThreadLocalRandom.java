@@ -1,5 +1,3 @@
-package com.company;
-
 import java.util.concurrent.ThreadLocalRandom;
 public class Exercise_05_06_IMPORTANT_ThreadLocalRandom {
     public static void main(String[]args){

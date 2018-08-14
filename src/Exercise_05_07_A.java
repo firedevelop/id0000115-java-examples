@@ -1,4 +1,3 @@
-package com.company;
 import java.util.Arrays;
 
 public class Exercise_05_07_A {

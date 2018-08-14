@@ -1,5 +1,3 @@
-package com.company;
-
 public class Exercise_02_14 {
     public static void main(String[] args) {
         int day = 3, month = 4, year = 2018;

@@ -1,4 +1,3 @@
-package com.company;// https://netjs.blogspot.com/2017/07/how-to-remove-elements-from-array-java.html
 import java.util.Scanner;
 
     public class Exercise_05_04_Array_delete_index_number {

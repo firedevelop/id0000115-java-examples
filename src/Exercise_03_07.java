@@ -1,5 +1,3 @@
-package com.company;
-
 public class Exercise_03_07 {
     public static void main(String[]args){
         int j=0;

@@ -1,5 +1,3 @@
-package com.company;
-
 public class Exercise_Proposed_02_01 {
     public static void main(String[] args) {
         int dni = 32916098;

@@ -1,4 +1,3 @@
-package com.company;
 import java.util.Scanner;
 public class Exercise_01_02 {
     public static void main(String[]args){

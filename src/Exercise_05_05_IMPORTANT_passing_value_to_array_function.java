@@ -1,5 +1,3 @@
-package com.company;
-
 import java.util.Scanner;
 
 public class Exercise_05_05_IMPORTANT_passing_value_to_array_function {

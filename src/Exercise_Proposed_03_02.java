@@ -1,5 +1,3 @@
-package com.company;
-
 import java.util.Calendar;
 
 public class Exercise_Proposed_03_02 {
